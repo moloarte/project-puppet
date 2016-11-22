@@ -43,3 +43,15 @@
 [submodule "modules/mysql"]
 	path = modules/mysql
 	url = git@github.com:puppetlabs/puppetlabs-mysql.git
+[submodule "modules/staging"]
+	path = modules/staging
+	url = git@github.com:voxpupuli/puppet-staging.git
+[submodule "modules/dns"]
+	path = modules/dns
+	url = git@github.com:theforeman/puppet-dns.git
+[submodule "modules/dhcp"]
+	path = modules/dhcp
+	url = git@github.com:theforeman/puppet-dhcp.git
+[submodule "modules/strings"]
+	path = modules/strings
+	url = git@github.com:puppetlabs/puppet-strings.git
